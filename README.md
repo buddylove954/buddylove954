@@ -35,7 +35,7 @@ I thrive in fully remote teams, love building polished and reliable user experie
 ## 🌐 **Projects & Work**
 
 ### 🔭 **SiriuStats**
-`https://siriustats.com`  
+https://siriustats.com
 SiriuStats is an advanced analytics and prediction platform built for sports and betting enthusiasts who want deeper insights and smarter decision-making. The application uses AI-powered betting models — powered by OpenAI’s API — to generate bet suggestions ranked by confidence level, helping users quickly identify high-probability opportunities. Beyond predictions, SiriuStats delivers comprehensive statistical context, including weather impact, team-vs-team performance, player and team trends, weekday performance patterns, and more. By combining intelligent AI-driven recommendations with rich, data-backed insights, SiriusStats gives users a clear, actionable perspective on what to expect before placing a bet. The platform’s goal is to help users make sharper, more informed decisions — not by guessing, but by understanding the story behind the numbers.
 
 
