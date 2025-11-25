@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Will Love
 
-### 🚀 Full-Stack Engineer | Ruby on Rails • React • TypeScript | SaaS • Payments • Onboarding • Optimization
+### 🚀 Full-Stack Engineer | Ruby on Rails • React • Python
 
 I’m a full-stack software engineer with 10+ years of experience building and scaling SaaS platforms, creator tools, and data-driven applications. My work spans end-to-end feature ownership — system design, backend development, frontend engineering, A/B experimentation, payments, and performance optimization.
 
