@@ -38,6 +38,19 @@ I thrive in fully remote teams, love building polished and reliable user experie
 https://siriustats.com
 SiriuStats is an advanced analytics and prediction platform built for sports and betting enthusiasts who want deeper insights and smarter decision-making. The application uses AI-powered betting models — powered by OpenAI’s API — to generate bet suggestions ranked by confidence level, helping users quickly identify high-probability opportunities. Beyond predictions, SiriuStats delivers comprehensive statistical context, including weather impact, team-vs-team performance, player and team trends, weekday performance patterns, and more. By combining intelligent AI-driven recommendations with rich, data-backed insights, SiriusStats gives users a clear, actionable perspective on what to expect before placing a bet. The platform’s goal is to help users make sharper, more informed decisions — not by guessing, but by understanding the story behind the numbers.
 
+🎲 **Number Nerds**
+
+https://number-nerds.net
+
+Number Nerds is a modern lottery analysis platform designed for players who want to make more informed, data-driven decisions. The application transforms historical lottery results into meaningful insights through advanced statistics, frequency analysis, pattern recognition, and number trend visualization. Users can explore hot and cold numbers, overdue draws, recurring combinations, and other historical patterns to better understand how numbers have appeared over time. Rather than relying on guesswork, Number Nerds provides a clean, intuitive experience that helps users analyze lottery data, discover trends, and develop their own strategies using real historical information.
+
+🥋 **Novus Jiu Jitsu**
+
+https://novusjiujitsu.com
+
+Novus Jiu Jitsu is the official website for Novus Jiu Jitsu, designed to showcase the academy, its programs, and its community while providing prospective students with an easy way to learn about training opportunities. The website highlights class offerings, instructor information, membership details, schedules, and academy culture through a clean, modern user experience. Built to serve both new and existing members, the platform streamlines access to essential information while reflecting the professionalism and welcoming environment of the academy. Its goal is to make discovering, joining, and staying connected with Novus Jiu Jitsu as simple and engaging as possible.
+
+
 
 ---
 
