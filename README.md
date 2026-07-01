@@ -19,6 +19,13 @@ I thrive in fully remote teams, love building polished and reliable user experie
 
 ## 💼 **Recent Experience**
 
+### **Betterment — Senior Software Engineer (Contract)**
+
+- Built core features for Betterment's Retail Growth & Promotions platform using Ruby on Rails, React/TypeScript, and PostgreSQL.
+- Led development of the Savings Rate Boost grant system, including new promotion architecture, scheduling, and fulfillment workflows.
+- Delivered Refer-a-Friend 2.0 platform enhancements that supported a quarter with $500M+ in net new deposits.
+- Built universal deep-link infrastructure for iOS, Android, and Braze campaigns with Datadog monitoring and improved onboarding experiences.
+
 ### **ezCater — Software Engineer / Technical Lead**
 - Led end-to-end development across Rails + React ecosystem  
 - Built guided onboarding and AI-powered ordering experiences  
