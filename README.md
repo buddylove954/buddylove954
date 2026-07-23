@@ -41,6 +41,10 @@ I thrive in fully remote teams, love building polished and reliable user experie
 
 ## 🌐 **Projects & Work**
 
+### ⚡ SiriusWatts
+https://siriuswatts.com
+SiriusWatts is a solar and portable power planning platform built for people who want clear answers before they buy. The application turns everyday appliance lists and energy needs into concrete battery and solar sizing recommendations, then matches those requirements to real power stations, panels, and DIY build options with live multi-retailer pricing. Beyond the calculator, SiriusWatts offers product comparisons, runtime estimates, deal signals, price history, and practical buying guides — including used-gear advice — so shoppers can see capacity, output, value, and trade-offs side by side. By combining honest sizing math with catalog depth and affiliate-ready buy links, SiriusWatts helps users choose the right system with confidence — not by chasing marketing claims, but by understanding what their power needs actually require.
+
 ### 🔭 **SiriuStats**
 https://siriustats.com
 SiriuStats is an advanced analytics and prediction platform built for sports and betting enthusiasts who want deeper insights and smarter decision-making. The application uses AI-powered betting models — powered by OpenAI’s API — to generate bet suggestions ranked by confidence level, helping users quickly identify high-probability opportunities. Beyond predictions, SiriuStats delivers comprehensive statistical context, including weather impact, team-vs-team performance, player and team trends, weekday performance patterns, and more. By combining intelligent AI-driven recommendations with rich, data-backed insights, SiriusStats gives users a clear, actionable perspective on what to expect before placing a bet. The platform’s goal is to help users make sharper, more informed decisions — not by guessing, but by understanding the story behind the numbers.
